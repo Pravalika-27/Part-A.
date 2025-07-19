@@ -1,8 +1,8 @@
 # 🧩 Full-Stack Docker Assignment – PART-A
 
 ## 👤 Submitted by:
-**Name:** Prasad Banoth 
-**Branch:** `solutions-prasad
+**Name:** Pravalika
+**Branch:** `solutions-pravalika
 `  
 
 ---
